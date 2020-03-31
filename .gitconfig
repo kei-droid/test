@@ -1,2 +1,8 @@
 [core]
 	autoCRLF = false
+	quotepath = false
+[user]
+	name = kei-droid
+	email = keiwajt@gmail.com
+[gui]
+	encoding = utf-8
