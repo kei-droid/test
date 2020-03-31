@@ -36,3 +36,5 @@ git remote add origin
 git remote add origin https://github.com/kei-droid/test
 push origin master
 git push origin master
+git add .
+git commit -m "pull req test"
